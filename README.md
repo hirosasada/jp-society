@@ -1,8 +1,7 @@
 [home](https://hirosasada.github.io/) > 日本社会論 III
-# 現代日本学プログラム 日本社会論 III
- 
-## 2019年度 後期  
-<div style="text-align: right;">【右寄せにする文章を記述】</div>    
+# 現代日本学プログラム 日本社会論 III  
+<div style="text-align: right;">**2019年度 後期**</div>   
+
 ## 教材 （受講者専用、要パスワード）  
 - 第1週：[講義ノート]  
 - 第2週：[講義ノート]・[読書課題]  
