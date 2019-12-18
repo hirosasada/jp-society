@@ -11,9 +11,9 @@
 - 第6週：<font color="Red">中間テスト</font>  
 - 第7週：[講義ノート](https://drive.google.com/open?id=13cuk7gPVuPAJ-8e5xQFhMeiweY5Mo7G1)・[読書課題](https://drive.google.com/open?id=1QeL-ZPDtXu9wzqM8Q3hnohBN19sAhVDc)    
 - 第8週：[講義ノート](https://drive.google.com/open?id=1qw0LQF3o6ZvvkZPV3vwCErmDFGy2HJim)・[読書課題](https://drive.google.com/open?id=1__iP5xZJJ0T2j2QGPun-h1ahaVnFFYxe)  
-- 第9週：[講義ノート]・[読書課題](https://drive.google.com/open?id=1Ch-7tYkNggx8c0HLKY-8qqZYiD0MMIp7)    
-- 第10週：[講義ノート]・[読書課題](https://drive.google.com/open?id=16TZYp2FM5LlQKa42xCL37Uk97hSYtP5D)  
-- 第11週：[講義ノート]・[読書課題](https://drive.google.com/open?id=1BwQxAqps2EERrBo3HPK4WXhIS1uVyj10)   
+- 第9週：[講義ノート](https://drive.google.com/open?id=1zIFFX9Vw205Gan63hxQ7YcxEWNxMksp-)・[読書課題](https://drive.google.com/open?id=1Ch-7tYkNggx8c0HLKY-8qqZYiD0MMIp7)    
+- 第10週：[講義ノート](https://drive.google.com/open?id=10MbOqJkJ-6oTejKdDIBn8Dl5SqMIev-F)・[読書課題](https://drive.google.com/open?id=16TZYp2FM5LlQKa42xCL37Uk97hSYtP5D)  
+- 第11週：[講義ノート](https://drive.google.com/open?id=186n5hz7YnfIFTEZr2HiIDMeSeH4l8Yc_)・[読書課題](https://drive.google.com/open?id=1BwQxAqps2EERrBo3HPK4WXhIS1uVyj10)   
 - 第12週：[講義ノート]・[読書課題](https://drive.google.com/open?id=1zRb89S01truLVzcWcgRxsljpUt2JlFk4)  
 - 第13週： ゲストによる講義 （12月20日 16:30）
 - 第14-15週：プレゼンテーション  
