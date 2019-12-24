@@ -15,6 +15,6 @@
 - 第10週：[講義ノート](https://drive.google.com/open?id=10MbOqJkJ-6oTejKdDIBn8Dl5SqMIev-F)・[読書課題](https://drive.google.com/open?id=16TZYp2FM5LlQKa42xCL37Uk97hSYtP5D)  
 - 第11週：[講義ノート](https://drive.google.com/open?id=186n5hz7YnfIFTEZr2HiIDMeSeH4l8Yc_)・[読書課題](https://drive.google.com/open?id=1BwQxAqps2EERrBo3HPK4WXhIS1uVyj10)   
 - 第12週：[講義ノート](https://drive.google.com/open?id=1A6ykX0jSh2GURElZFS5U7qmFVy0BkAbc)・[読書課題](https://drive.google.com/open?id=1zRb89S01truLVzcWcgRxsljpUt2JlFk4)  
-- 第13週： ゲストによる講義 （12月20日 16:30）
+- 第13週： ゲストによる講義 （12月20日）
 - 第14-15週：プレゼンテーション  
 - 第16週：<font color="Red">期末テスト</font>    
